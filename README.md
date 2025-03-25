@@ -1,7 +1,7 @@
 
-    👋 Hey! I’m @fletcherholt, a tech explorer on a mission.
-    👀 Currently fascinated by Arch Linux—customization is my superpower!
-    🌱 I’m pursuing a B-TECH in Media, merging technology with storytelling.
-    💞 I’m looking to team up on innovative projects that challenge the norm—let’s brainstorm together!
-    📫 Reach out to me at fletcherholt649@gmail.com—I’d love to chat!
-    ⚡ Fun fact: I can name every Pokémon, but I still can’t remember where I put my keys!
+    👋 Hi, I’m @fletcherholt, a tech enthusiast.
+    👀 I’m currently exploring Arch Linux and enjoying the learning process.
+    🌱 I’m studying B-TECH Media, focusing on the intersection of technology and creativity.
+    💞 I’m interested in collaborating on projects that push boundaries and foster innovation.
+    📫 You can reach me at fletcherholt649@gmail.com
+    ⚡ Fun fact: I enjoy building computers and tinkering with new tech.
