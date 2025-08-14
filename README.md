@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-banner.png)
 Hey! I'm Fletcher and this is my github profile.
 
 I'm currently learning typescript, NextJS, and react
