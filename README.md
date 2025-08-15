@@ -1,5 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=435&lines=Hey+I'm+Fletcher)](https://git.io/typing-svg)
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=I'll+waste+my+time%2C;So+you+don't+have+to+waste+yours.)](https://git.io/typing-svg)
+
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=33&pause=1000&color=F7F7F7&repeat=false&width=435&lines=About+me)](https://git.io/typing-svg)
 
 I really enjoy learning new things and putting my newfound skills to the test by tinkering with tech. Whether it’s experimenting with new tools, figuring out how something works, or building little side projects, I get a lot of satisfaction from the process.
