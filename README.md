@@ -1,17 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=43&pause=1000&color=65F732&center=true&vCenter=true&repeat=false&width=435&lines=Hey%2C+I'm+Fletcher)](https://git.io/typing-svg)
+![Fletcher Holt](github-header-banner.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I'll+waste+my+time%2C;So+you+don't+have+to+waste+yours.)](https://git.io/typing-svg)
+# Hey, I'm Fletcher
 
+I'm a young developer who builds things because I enjoy it, and because I like making stuff that actually helps people. I spend most of my time figuring out how things work and then turning that into tools, apps, and side projects I'd want to use myself.
 
+I care about the small details: software that feels good to use, runs reliably, and solves a real problem without getting in the way.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=33&pause=1000&color=F7F7F7&repeat=false&width=435&lines=About+me)](https://git.io/typing-svg)
+## What I'm working on
 
-I really enjoy learning new things and putting my newfound skills to the test by tinkering with tech. Whether it’s experimenting with new tools, figuring out how something works, or building little side projects, I get a lot of satisfaction from the process.
+My latest project is an interactive portfolio that works like a Windows 10 desktop, open icons, drag windows around, all of it. Instead of another scroll-and-read site, I wanted something you actually use. Built with Next.js and TypeScript.
 
+[fletcherholt.xyz](https://fletcherholt.xyz)
 
+## How I work
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=33&pause=1000&color=F7F7F7&repeat=false&width=435&lines=Recent+projects+)](https://git.io/typing-svg)
-
-I just built a completely interactive portfolio that feels and appears identical to Windows 10, check out <a href="https://fletcherholt.xyz" target="_blank" rel="noopener noreferrer">My Website</a>. I didn't simply want to create another typical scroll-and-read site, so I had it operate in the same manner we utilize a desktop: click to open icons, drag to move windows, and a playful, OS imitating interface.
-
-What was most exciting about this project was that I was designing and learning at the same time. I made it on Next.js and TypeScript, and it challenged me to improve my skills in front end development and systematic coding. There were moments where I'd hit a roadblock, making state management for animating windows smooth, or taking the animations to the level where it didn't feel jerky, but each obstacle was a learning experience. When I finished, it wasn't just a portfolio that I'd built, but a reflection of how I'd developed as a developer.
+I'm mostly self-taught and self-driven. I pick something I don't know how to do yet, then keep building until I do. Most of what you'll find here started as "I wonder if I can..." and grew into a real project.
