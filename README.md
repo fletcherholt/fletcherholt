@@ -6,11 +6,10 @@ I'm a young developer who builds things because I enjoy it, and because I like m
 
 I care about the small details: software that feels good to use, runs reliably, and solves a real problem without getting in the way.
 
-## What I'm working on
+## A few things I've built
 
-My latest project is an interactive portfolio that works like a Windows 10 desktop, open icons, drag windows around, all of it. Instead of another scroll-and-read site, I wanted something you actually use. Built with Next.js and TypeScript.
-
-[fletcherholt.xyz](https://fletcherholt.xyz)
+- **[Collections for Spotify](https://github.com/fletcherholt/album-collections)** — a Spicetify add-on that lets you group albums and playlists into their own tabs in Your Library, without merging everything into one big playlist.
+- **[cc-usage-statusline](https://github.com/fletcherholt/cc-usage-statusline)** — a live usage status line for Claude Code that shows your session and weekly limits as bars, right above the prompt.
 
 ## How I work
 
