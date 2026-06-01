@@ -1,5 +1,8 @@
 # About Me:
-I’m currently working on cc-usage-statusline<br>I’m looking to collaborate on spicetify<br>I’m currently learning making plugins for spicetify
+ Hey I'm Fletcher I'm a young developer who builds things because I enjoy it, and because I like making stuff that actually helps people. 
+I spend most of my time figuring out how things work and then turning that into tools, apps, and side projects I'd want to use myself.
+I care about the details: software that feels good to use, runs well, and solves an actual problem without getting in the way.
+
 
 
 ## Socials:
